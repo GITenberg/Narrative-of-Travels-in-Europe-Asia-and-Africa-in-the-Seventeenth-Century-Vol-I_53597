@@ -1,5 +1,5 @@
 _repo: Narrative-of-Travels-in-Europe-Asia-and-Africa-in-the-Seventeenth-Century-Vol-I_53597
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Narrative of Travels in Europe, Asia, and Africa, in the 17th Century,
   Vol. I
 contributor:
@@ -15,6 +15,9 @@ contributor:
     gutenberg_agent_id: '35427'
     url: http://www.gutenberg.org/2009/agents/35427
     wikipedia: http://de.wikipedia.org/wiki/Joseph_von_Hammer-Purgstall
+covers:
+- cover_type: archival
+  image_path: 53597-h/images/cover.jpg
 creator:
   author:
     agent_name: Evliya Çelebi
@@ -27,6 +30,8 @@ creator:
     gutenberg_agent_id: '47447'
     url: http://www.gutenberg.org/2009/agents/47447
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53597#Narrative-of-Travels-in-Europe-Asia-and-Africa-in-the-Seventeenth-Century-Vol-I
 gutenberg_issued: '2016-11-25'
 gutenberg_type: Text
 identifiers:
