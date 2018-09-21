@@ -1,0 +1,47 @@
+_repo: Narrative-of-Travels-in-Europe-Asia-and-Africa-in-the-Seventeenth-Century-Vol-I_53597
+_version: 0.0.1
+alternative_title: Narrative of Travels in Europe, Asia, and Africa, in the 17th Century,
+  Vol. I
+contributor:
+  translator:
+    agent_name: Hammer-Purgstall, Joseph, Freiherr von
+    aliases:
+    - Hammer, Joseph von
+    - Purgstall, Joseph Hammer, Freiherr von
+    - Von Purgstall, Joseph Hammer, Freiherr
+    - Von Hammer, Joseph
+    birthdate: 1774
+    deathdate: 1856
+    gutenberg_agent_id: '35427'
+    url: http://www.gutenberg.org/2009/agents/35427
+    wikipedia: http://de.wikipedia.org/wiki/Joseph_von_Hammer-Purgstall
+creator:
+  author:
+    agent_name: Evliya Çelebi
+    aliases:
+    - Evliya, Efendi
+    - Tselempi, Evlia
+    - Chelebi, Ewliya
+    - Çelebi, Evliya
+    - Cselebi, Evlia
+    gutenberg_agent_id: '47447'
+    url: http://www.gutenberg.org/2009/agents/47447
+description: ''
+gutenberg_issued: '2016-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53597'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Turkey -- History'
+- !lcc 'PJ'
+- !lcsh 'Caucasus, South -- Description and travel'
+- !lcsh 'Istanbul (Turkey) -- Description and travel'
+- !lcc 'DR'
+- GITenberg
+title: Narrative of Travels in Europe, Asia, and Africa, in the Seventeenth Century,
+  Vol. I
+url: http://www.gutenberg.org/ebooks/53597
